@@ -20,8 +20,8 @@ next_page_id: ''
 previous_page_id: search/full-text-search
 source_url: >-
   https://github.com/box/developer.box.com/blob/main/content/guides/search/index.md
+fullyTranslated: true
 ---
-# Search
+# 検索
 
-The Box APIs provides a few ways to search using both full-text search and
-metadata search.
+Box APIには、全文検索とメタデータ検索の両方を使用した検索方法がいくつか用意されています。
